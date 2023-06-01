@@ -1,0 +1,9 @@
+* cl-l10n
+
+cl-l10n is a localization package for common-lisp.
+
+|---------+--------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cl-l10n/cl-l10n.git |
+| commit  | b573b7e                                                |
+| systems | cl-l10n                                                |
+|---------+--------------------------------------------------------|
