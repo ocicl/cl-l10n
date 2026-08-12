@@ -7,4 +7,4 @@ cl-l10n is a localization package for common-lisp.
 | commit  | b573b7e                                                |
 | systems | cl-l10n                                                |
 |---------+--------------------------------------------------------|
- 
+  
